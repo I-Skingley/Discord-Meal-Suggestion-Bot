@@ -19,8 +19,8 @@ Created with js
 # TO DO
 
 * Clean up index
-* * Move events to event folder
-* * Move functionality to commands/events
+    * Move events to event folder
+    * Move functionality to commands/events
 * Search by different fields
 * Improve Embed
 
