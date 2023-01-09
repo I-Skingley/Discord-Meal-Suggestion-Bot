@@ -1,0 +1,22 @@
+{
+  "name": "GordonFieri",
+  "version": "1.0.0",
+  "description": "Food suggestion bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "devStart": "nodemon index.js"
+  },
+  "keywords": [
+
+  ],
+  "author": "i-skingley",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20",
+    "sqlite": "^4.1.2",
+    "sqlite3": "^5.1.2"
+  }
+}
